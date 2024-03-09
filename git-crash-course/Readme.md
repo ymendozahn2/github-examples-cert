@@ -88,7 +88,20 @@ git push --set-upstream origin dev
 
 ## Remotes
 
+we can add remotes via upstream when adding a branch
+
+```
+git remote add ...
+git branch -u origin new-feature
+```
+
 ## Stashing
+
+```
+git stash list
+git stash
+git stash save my-name
+```
 
 ## Merging
 
