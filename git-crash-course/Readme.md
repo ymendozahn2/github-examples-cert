@@ -81,6 +81,11 @@ checkout the branch
 ```
 git checkout <branch-name>
 ```
+
+```
+git push --set-upstream origin dev
+```
+
 ## Remotes
 
 ## Stashing
